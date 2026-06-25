@@ -1,6 +1,6 @@
-# ⚔ Chroniques du Plateau — Mini RPG PHP POO
+# PROJET - 3EME ANNEE - TECH WEB AVANCE - UPEF #
 
-Projet scolaire — Tech Web Avancé (L3 GLBD)
+Projet semestriel — Tech Web Avancé (L3 GLBD)
 
 ---
 
@@ -8,7 +8,7 @@ Projet scolaire — Tech Web Avancé (L3 GLBD)
 
 1. Copier le dossier dans `C:\xampp\htdocs\mini-rpg\`
 2. Démarrer **Apache** dans XAMPP
-3. Ouvrir `http://localhost/mini-rpg/index.php`
+3. Ouvrir `http://localhost/miniRPG-tech_web-UPEFmini-rpg/index.php`
 
 ---
 
@@ -19,8 +19,8 @@ mini-rpg/
 ├── index.php              ← point d'entrée
 ├── classes/
 │   ├── Character.php      ← classe abstraite
-│   ├── Hero.php           ← héros (HP:30, ATK:7)
-│   ├── Enemy.php          ← ennemi (HP:20, ATK:5)
+│   ├── Hero.php           ← héros
+│   ├── Enemy.php          ← ennemi
 │   ├── Potion.php         ← collectible sur le plateau
 │   ├── Board.php          ← grille 10×10
 │   └── Game.php           ← simulation de la partie
@@ -36,7 +36,7 @@ mini-rpg/
 
 ## Comment jouer
 
-1. Configurer les HP et ATK du héros et de l'ennemi
+1. Configurer les Vies et Attaque du héros et de l'ennemi
 2. Cliquer sur **Lancer la bataille**
 3. Avancer avec le bouton **Tour suivant**
 4. À la fin, **Reconfigurer** pour rejouer
@@ -53,4 +53,4 @@ mini-rpg/
 
 ## Auteur
 
-Fanamby — L3 GLBD
+Fanamby — L3 GLBD - UPEF - 2026
