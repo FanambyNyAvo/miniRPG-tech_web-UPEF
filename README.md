@@ -30,10 +30,11 @@ tech-web-avance-UPEF-L3GLBD/
 │   ├── game_simulation.php    ← arène mode simulation + JavaScript
 │   └── game_joueur.php        ← arène mode joueur + contrôles clavier
 └── assets/
-    ├── style.css              ← thème RPG fantasy (parchemin, tons dorés)
+    ├── style.css              ← thème fantasy (parchemin, tons dorés)
     ├── mode.css               ← CSS sélecteur de mode + touches clavier
     ├── hero.png               ← image du héros
     ├── enemy.png              ← image de l'ennemi
+    ├── enemy_dead.png         ← image de l'ennemi mort
     └── potion.png             ← image de la potion
 ```
 
