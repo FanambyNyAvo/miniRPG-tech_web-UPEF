@@ -15,7 +15,7 @@ Projet semestriel — Tech Web Avancé (L3 GLBD)
 ## Structure
 
 ```
-mini-rpg/
+tech-web-avance-UPEF-L3GLBD/
 ├── index.php                  ← point d'entrée et contrôleur
 ├── classes/
 │   ├── Character.php          ← classe abstraite (nom, hp, attack, x, y)
@@ -95,11 +95,8 @@ Game        → simulate() → tableau de snapshots JSON
 |---|---|
 | Logique métier | PHP 8.x (POO) |
 | Affichage | HTML5 / CSS3 |
-| Interactivité | JavaScript vanilla |
+| Interactivité | JavaScript |
 | Serveur local | XAMPP / Apache |
 
 ---
-
-## Auteur
-
 Fanamby Ny Avo — L3 GLBD - UPEF - 2026
