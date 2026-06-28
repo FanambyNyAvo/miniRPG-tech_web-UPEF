@@ -53,4 +53,4 @@ mini-rpg/
 
 ## Auteur
 
-Fanamby — L3 GLBD - UPEF - 2026
+Fanamby Ny Avo — L3 GLBD - UPEF - 2026
