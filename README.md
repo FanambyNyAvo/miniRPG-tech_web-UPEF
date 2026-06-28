@@ -6,7 +6,7 @@ Projet semestriel — Tech Web Avancé (L3 GLBD)
 
 ## Lancer le projet
 
-1. Copier le dossier dans `C:\xampp\htdocs\mini-rpg\`
+1. Copier le dossier dans `C:\xampp\htdocs\tech-web-avance-UPEF-L3GLBD\`
 2. Démarrer **Apache** dans XAMPP
 3. Ouvrir `http://localhost/tech-web-avance-UPEF-L3GLBD/index.php`
 
