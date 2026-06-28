@@ -15,7 +15,7 @@ Projet semestriel — Tech Web Avancé (L3 GLBD)
 ## Structure
 
 ```
-mini-rpg/
+tech-web-avance-UPEF-L3GLBD/
 ├── index.php              ← point d'entrée
 ├── classes/
 │   ├── Character.php      ← classe abstraite
